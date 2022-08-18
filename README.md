@@ -9,6 +9,6 @@
 
 -William Zapata Gomez
 
--David Flores Orozco
+-David Florez Orozco
 
 -Wendy Infante Vera
