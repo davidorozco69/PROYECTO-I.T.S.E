@@ -1,7 +1,8 @@
 body {
-    background: linear-gradient(#000046, #1cb5e0);
+    background: linear-gradient(#F5F4F4, #1cb5e0);
     background-repeat: no-repeat;
-    height: 881px;
+    height: 970px;
+    margin: auto;
   }
 *{
     margin:0;
@@ -9,7 +10,7 @@ body {
     box-sizing: border-box;
 }
 nav{
-    background-color: rgba(119, 136, 153, 0.212);
+    background-color: #1cb5e0;
     width: 100%;
 }
 .menu{
@@ -50,7 +51,7 @@ nav{
     margin-bottom: 40px;
 }
 h1{
-    background-color: #fff;
+    background-color: rgb(194, 194, 194);
 }
 .contenedor-imagenes{
     display:flex;
